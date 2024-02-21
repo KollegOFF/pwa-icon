@@ -1,6 +1,6 @@
 {
     "name": "pwa-icon",
-    "start_url": "/index.html",
+    "start_url": "/pwa-icon/index.html?pwa",
     "scope": "/",
     "display": "standalone",
     "short_name": "PWA Icon",

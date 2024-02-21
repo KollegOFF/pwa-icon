@@ -15,6 +15,12 @@
       if ("serviceWorker" in navigator) {
         navigator.serviceWorker.register("sw.js");
       }
+
+      window.addEventListener('DOMContentLoaded', () => {
+        if (location.search.includes('pwa')) {
+          document.querySelector('h1').textContent = 'Hello, world!';
+        }
+      });
       </script>
   </head>
   <body>
