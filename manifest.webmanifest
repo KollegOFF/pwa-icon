@@ -1,6 +1,6 @@
 {
     "name": "pwa-icon",
-    "start_url": "/pwa-icon/index.html?pwa",
+    "start_url": "/pwa-icon/index.html?pwa&version=1",
     "scope": "/",
     "display": "standalone",
     "short_name": "PWA Icon",
@@ -57,8 +57,8 @@
             "purpose": "any maskable"
         },
         {
-            "src": "icons/new/icon-512x512-nomask.png",
-            "sizes": "512x512",
+            "src": "icons/new/icon-1024x1024.png",
+            "sizes": "1024x1024",
             "type": "image/png",
             "density": 5,
             "purpose": "any"
