@@ -55,6 +55,13 @@
             "type": "image/png",
             "density": 5,
             "purpose": "any maskable"
+        },
+        {
+            "src": "icons/new/icon-512x512-nomask.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "density": 5,
+            "purpose": "any"
         }
     ],
     "shortcuts": [
