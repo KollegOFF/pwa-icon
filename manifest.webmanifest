@@ -55,13 +55,6 @@
             "type": "image/png",
             "density": 5,
             "purpose": "any maskable"
-        },
-        {
-            "src": "icons/new/icon-1024x1024.png",
-            "sizes": "1024x1024",
-            "type": "image/png",
-            "density": 5,
-            "purpose": "any"
         }
     ],
     "shortcuts": [
